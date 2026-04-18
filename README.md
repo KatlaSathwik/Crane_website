@@ -1,4 +1,1 @@
-﻿# Crane_website
-Step 1 : npm install
-Step2 : npm run build
-Step3 : npm run dev
+
